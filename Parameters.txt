@@ -1,0 +1,6 @@
+c0 2600[m/s] 声速（组织）
+fmax 20000[Hz] 最大频率
+lambda c0/fmax 波长
+cair 340[m/s] 声速（空域）
+huafen1 lambda/6 耳廓网格划分
+huafen2 cair/fmax/6 空域网格划分
